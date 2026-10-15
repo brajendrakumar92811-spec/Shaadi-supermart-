@@ -1,0 +1,6 @@
+{
+  "name": "Shaadi Supermart",
+  "description": "Everything for your wedding, all in one place. Discover verified wedding photographers, venues, caterers, DJs, makeup artists, and decorators in Etawah and across Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
